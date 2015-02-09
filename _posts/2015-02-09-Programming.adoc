@@ -1,8 +1,10 @@
-= Blog Title
-:hg-image: lol
-:hp-tags: asd, asd
+= Programming
+:hp-tags: blog,programming
 
-= Something
+I like programming
 
-# Blog
+= Reasons
+
+* There are no reasons
+* There isn't no reasons
 
