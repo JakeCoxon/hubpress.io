@@ -1,0 +1,8 @@
+= Blog Title
+:hg-image: lol
+:hp-tags: asd, asd
+
+= Something
+
+# Blog
+
