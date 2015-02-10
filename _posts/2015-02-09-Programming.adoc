@@ -1,10 +1,4 @@
 = Programming
 :hp-tags: blog,programming
 
-I like programming
-
-= Reasons
-
-* There are no reasons
-* There isn't no reasons
-
+Stuff
